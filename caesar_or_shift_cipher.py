@@ -3,6 +3,8 @@
 
 #thi is to check commit in sub branch
 
+# this is to check commit in sub branchs new branch
+
 def encrypt(text,s, decip): 
     result = "" 
   
