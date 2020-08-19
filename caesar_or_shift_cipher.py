@@ -1,6 +1,10 @@
 
 #this is to check the commit
 
+#changed in editor
+
+#added sumthing
+
 def encrypt(text,s, decip): 
     result = "" 
   
